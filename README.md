@@ -1,4 +1,4 @@
-RENEWS WHEM REFRESHS
+RENEWS WHEN REFRESHS
 # 🎓 Student Database Management System
 
 A simple yet effective Student Database Management System built using **Python** and **SQLite**, designed to perform full **CRUD operations** — Create, Read, Update, and Delete student records. This project was developed in the **PyCharm** IDE and demonstrates how to manage structured data through a lightweight relational database.
